@@ -10,4 +10,4 @@
 ### Place the "quick_pick_scripts" folder into the "addons" folder of your Godot project, and enable the plugin in the plugin settings of your project
 
 #### 特别感谢 MiMo 协助完成本插件的开发与实现。
-#### Special thanks to MiMo for the collaboration and implementation."
+#### Special thanks to MiMo for the collaboration and implementation.
